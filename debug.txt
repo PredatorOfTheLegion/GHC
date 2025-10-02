@@ -1,0 +1,3 @@
+Deploy timestamp: 2024-10-02 14:50
+Fixed paths: YES
+.nojekyll: YES
